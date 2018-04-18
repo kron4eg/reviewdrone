@@ -1,0 +1,3 @@
+required = [
+  "github.com/haya14busa/reviewdog/cmd/reviewdog",
+]
